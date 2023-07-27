@@ -16,15 +16,15 @@
 @import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
 
 :root {
-  --background-image: url('https://i.imgur.com/wJLd40i.gif');
+  --background-image: url('https://imgur.com/a/OBBLyNm');
   --background-image-blur: 5px;
   --background-image-size: contain;
   --background-image-position: center;
-  --popout-image: url('https://i.imgur.com/u4RpZjQ.gif');
+  --popout-image: url('https://imgur.com/a/OBBLyNm');
   --popout-image-blur: 30px;
   --popout-image-size: cover;
   --popout-image-position: center;
-  --overlay-image: url('https://i.imgur.com/D1gAkSe.gif');
+  --overlay-image: url('https://imgur.com/a/OBBLyNm');
   --overlay-image-blur: 5px;
   --overlay-image-size: cover;
   --overlay-image-position: center;
